@@ -1,0 +1,19 @@
+{
+  "name": "bug-investigation-intern-yadda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/intern/runner.js config=test/intern"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "intern-yadda-loader": "^0.1.1",
+    "yadda": "^0.16.0"
+  },
+  "dependencies": {
+    "intern": "^3.0.6",
+    "yadda": "^0.16.0"
+  }
+}
